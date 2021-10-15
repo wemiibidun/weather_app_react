@@ -16,6 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [Contact](#contact)
 
 
+## Introduction
+The aim of this project is create a simple weather app by using GraphQL API (GraphQL APIs get all the data your app needs in a single request through the use of queries). 
 
 ### Available Scripts
 
