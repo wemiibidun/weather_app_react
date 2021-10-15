@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/weather_app_react)
+![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Weather App (Using GraphQL API)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Available Scripts
 
