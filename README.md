@@ -53,3 +53,26 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 #### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+## Screenshot
+![Sample image](https://github.com/wemiibidun/todo_app/blob/main/public/Screen%20Shot.png)
+
+## Technologies (Language, Library and Framework)
+* GraphQL
+* React
+* CSS
+
+## Features
+The GUI of this project allows users to:
+* Search for a city's weather information
+* User will be able to see the current temperature, wind speed and little description of weather
+
+## Status
+Project is: _Complete_
+
+## Inspiration
+This project was inspired by [PedroTech's Tutorial](https://www.youtube.com/watch?v=BABUMRn47iQ&ab_channel=PedroTech) & [Konstantin Münster's Github page](https://github.com/konstantinmuenster/graphql-weather-api)
+
+## Contact
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
+
