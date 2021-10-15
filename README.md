@@ -70,7 +70,7 @@ The GUI of this project allows users to:
 
 
 ## Link to Published Project
-[Weather_App_Webpage](https://wemiibidun.github.io/portfolio_resume/)
+[Weather App Webpage](https://wemiibidun.github.io/weather_app_react/)
 
 
 ## Status
