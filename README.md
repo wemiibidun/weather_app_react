@@ -68,6 +68,11 @@ The GUI of this project allows users to:
 * Search for a city's weather information
 * User will be able to see the current temperature, wind speed and little description of weather
 
+
+## Link to Published Project
+[Weather_App_Webpage](https://wemiibidun.github.io/portfolio_resume/)
+
+
 ## Status
 Project is: _Complete_
 
