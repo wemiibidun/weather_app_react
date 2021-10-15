@@ -55,10 +55,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/todo_app/blob/main/public/Screen%20Shot.png)
+![Sample image](https://github.com/wemiibidun/weather_app_react/blob/master/weather_screenshot.png)
 
 ## Technologies (Language, Library and Framework)
 * GraphQL
+* Apollo Client
 * React
 * CSS
 
