@@ -6,7 +6,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-## Available Scripts
+## Table of contents
+* [Introduction](#introduction)
+* [Screenshot](#screenshot)
+* [Technologies](#technologies-language-library-and-framework)
+* [Features](#features)
+* [Link to Published Project](#link-to-published-portfolio)
+* [Status](#status)
+* [Contact](#contact)
+
+
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -30,7 +41,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
