@@ -1,5 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/weather_app_react)
-![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+
 
 
 # Weather App (Using GraphQL API)
