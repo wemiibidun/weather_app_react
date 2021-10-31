@@ -59,6 +59,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * GraphQL
 * Apollo Client
 * React
+* JSX
 * CSS
 
 ## Features
